@@ -54,7 +54,7 @@ services:
     image: meetcw/ms-ra-forwarder:latest
 ```
 
-在 `docker-compose.yml` 目录下执行 `docker compose up -d`。
+在 `docker-compose.yml` 目录下执行 `docker-compose up -d`。
 
 ### 部署到 Vercel
 
